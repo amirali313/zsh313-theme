@@ -4,7 +4,7 @@
 # / /_ ___) |  _  |___) | |___) |
 #/____|____/|_| |_|____/|_|____/
 
-#ZSH313 Theme - Preview: https://
+#ZSH313 Theme - Preview: https://github.com/amirali313/zsh313-theme
 
 local return_code="%(?..%{$fg[red]%}%? ↵%{$reset_color%})"
 
