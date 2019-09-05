@@ -15,3 +15,9 @@ No more redundant info on your screen
 Plus, never get tired of typing command to see your return code, because it is fixed next to the clock.
 
 ![alt text](screenshot.png)
+
+# installation
+
+Just write ZSH313 in your .zshrc file, like this :
+
+ZSH_THEME="zsh313"
